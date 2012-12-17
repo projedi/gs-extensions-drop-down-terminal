@@ -40,3 +40,6 @@ v7 (2012-12-08)
 - bugfix: set the opacity of the terminal instead of the window to improve text readibility
 - bugfix: [use gnome shell style context menu (github #11)](https://github.com/zzrough/gs-extensions-drop-down-terminal/issues/11)
 - code: use settings directly instead of the dbus API
+
+v8 (2012-12-17)
+- bugfix: [Screen unlock makes terminal appear (github #21)](https://github.com/zzrough/gs-extensions-drop-down-terminal/issues/21)
